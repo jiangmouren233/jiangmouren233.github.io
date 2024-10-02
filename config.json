@@ -14,12 +14,12 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : ""
+        "" : ""
     },
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "",
+            "href" : "jiangmouren233.github.io",
             "hidden_img" : null,
             "width" : 0
         }
